@@ -8,13 +8,7 @@
 
 ## 🚀 About Me
 
-💡 Passionate about **Backend Development** and exploring **Artificial Intelligence**.
-
-⚡ I enjoy **low-level programming**, optimizing performance, and solving complex problems.
-
-🎯 Currently working with **PHP & C**, diving deeper into backend architectures.
-
-🎮 I tweak **Linux systems** for fun and efficiency.
+🎓 ***Computer Science Student***
 
 ## 🛠️ Tech Stack
 
