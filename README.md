@@ -29,11 +29,12 @@
 
 <div align="center">
   
-![Lokman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokmanBrahmia&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokmanBrahmia&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=LokmanBrahmia&theme=radical&hide_border=true)
+![Skylok-24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skylok-24&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skylok-24&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Skylok-24&theme=radical&hide_border=true)
 
 </div>
+
 
 
 
