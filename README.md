@@ -6,9 +6,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/">لقمان عبد المنعم</a> 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaibhav-kesarwani&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="Profile views" />
-</p>
+
 
 <div align="center">
   <a href="https://vaibhavkesarwani.vercel.app/">
