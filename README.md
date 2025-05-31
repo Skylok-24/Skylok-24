@@ -14,26 +14,6 @@
   </a>
 </div>
 
----
-
-<div align= "center" >
-  I'm a computer science student at the University of Guelma, Algeria.<br>
-  I have a strong interest in <strong>Back-End</strong> development and <strong>Artificial Intelligence</strong>.
-</div>
-
-
-
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lokman-abdelmonam-brahmia-18732a329/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:brahmialokman16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" /></a>
-  <!--<a href="https://vaibhavkesarwani.vercel.app/"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45"/></a>-->
-</p>
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
