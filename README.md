@@ -1,30 +1,41 @@
-# 👋 I’m **لقمان عبد المنعم**
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=WDXL+Lubrifont+TC&display=swap" rel="stylesheet">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
+
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/">لقمان عبد المنعم</a> 👋</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vaibhav-kesarwani&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="Profile views" />
+</p>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97A7&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Backend+Developer;Low-Level+Programming+Aficionado)](https://git.io/typing-svg)
-
+  <a href="https://vaibhavkesarwani.vercel.app/">
+    <img src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" width="300" alt="Profile Image"/>
+  </a>
 </div>
 
-## 🚀 About Me
+---
 
-🎓 ***Computer Science Student***
-
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=c,php,java,html,css,laravel,mysql,linux,git" width="400" />
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokman-abdelmonam-brahmia-18732a329/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahmialokman16@gmail.com)
-
+<div align= "center" >
+  I'm a computer science student at the University of Guelma, Algeria.<br>
+  I have a strong interest in <strong>Back-End</strong> development and <strong>Artificial Intelligence</strong>.
 </div>
+
+
 
 
 ---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lokman-abdelmonam-brahmia-18732a329/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:brahmialokman16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" /></a>
+  <!--<a href="https://vaibhavkesarwani.vercel.app/"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45"/></a>-->
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -34,16 +45,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Skylok-24&theme=radical&hide_border=true)
 
 </div>
-
-
-
-
-
-
-
-
-
-<!---
-Skylok-24/Skylok-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
