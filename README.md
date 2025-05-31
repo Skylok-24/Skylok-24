@@ -7,12 +7,19 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/">لقمان عبد المنعم</a> 👋</h1>
 
 
-
 <div align="center">
   <a href="https://vaibhavkesarwani.vercel.app/">
     <img src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" width="300" alt="Profile Image"/>
   </a>
 </div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokman-abdelmonam-brahmia-18732a329/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahmialokman16@gmail.com)
+
+</div>
+
 
 ## 📊 GitHub Stats  
 
