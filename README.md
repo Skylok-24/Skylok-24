@@ -18,5 +18,16 @@
 
 ---
 
-
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Skylok-24&show_icons=true&theme=radical" alt="Lokman's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skylok-24&layout=compact&theme=radical" alt="Lokman's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
 
